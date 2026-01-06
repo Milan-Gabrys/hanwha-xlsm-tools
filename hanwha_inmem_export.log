@@ -1,0 +1,8 @@
+2026-01-06 14:35:31,836 | INFO | === START běhu ===
+2026-01-06 14:35:31,840 | INFO | xl/workbook.xml: 11385 → 11133 bytes (workbookProtection odstraněn: True)
+2026-01-06 14:35:31,859 | INFO | xl/worksheets/sheet2.xml: 1545072 → 1544837 bytes (sheetProtection odstraněn: True)
+2026-01-06 14:35:39,207 | INFO | Vybrané indexy: [0, 3]
+2026-01-06 14:35:39,208 | INFO | Názvy sloupců: ['Item', '3~4day']
+2026-01-06 14:35:39,208 | INFO | Počet datových řádků: 1404
+2026-01-06 14:35:39,272 | INFO | [OK] Uloženo: C:\Users\gabrys\OneDrive - ABBAS, a.s\Dokumenty\K2\Hanwha\EXT_hanwha\Hanwha_Vision_Stock_StockRaw_filtered_20260106_143539.xlsx
+2026-01-06 14:35:39,272 | INFO | ————————————————————————————————————————————————————————————————————————————————
